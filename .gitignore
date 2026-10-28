@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Notebook'ların indirdiği veri setleri
+*.zip
+*.tgz
+*.csv
+enron_spam_data*
+spamassassin*/

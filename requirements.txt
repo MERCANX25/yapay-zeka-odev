@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+nltk
+xgboost
+jupyter
+
+# 3. notebook'taki DistilBERT bölümü için (GPU önerilir)
+torch
+transformers
